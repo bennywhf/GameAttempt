@@ -1,1 +1,1 @@
-# GameAttempt
+This was an early attempt of mine at understanding multiplayer communication. My aim was to have a program that uses UDP to send and recieve key presses. Each player controls his own ball by pressing directional keys. Pressing these keys also sends the other player a message so that the "remote player" ball is moved accordingly.
